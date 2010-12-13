@@ -22,6 +22,7 @@ GNU General Public License for more details.
 #include <time.h>
 #include <iostream>
 #include <fstream>
+#include <stdlib.h>
 #include <vector>
 
 // OpenBabel
@@ -144,7 +145,8 @@ int main(int argc, char* argv[])
    unsigned molCount(0);
    OpenBabel::OBMol dbMol;
    std::ostringstream ss;
-   while ((uo.dbInpReader)->Read(&dbMol, uo.dbInpStream))
+   (uo.dbInpReader)->SetInStream(uo.dbInpStream);
+   while ((uo.dbInpReader)->Read(&dbMol))
    {
       ++molCount;
 

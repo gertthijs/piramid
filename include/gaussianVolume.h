@@ -80,4 +80,5 @@ void checkVolumes(GaussianVolume&, GaussianVolume&, AlignmentInfo&);
 
 
 
-#endif __SILICOS_PIRAMID_COORDINATE_H__
+#endif
+

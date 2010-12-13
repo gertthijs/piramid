@@ -9,7 +9,7 @@ find_package(OpenBabel2 REQUIRED)
 # Version
 set (${PROJECT_NAME}_VERSION_MAJOR 1)
 set (${PROJECT_NAME}_VERSION_MINOR 0)
-set (${PROJECT_NAME}_VERSION_PATCH 0)
+set (${PROJECT_NAME}_VERSION_PATCH 1)
 configure_file ("${PROJECT_SOURCE_DIR}/piramidConfig.h.in" "${PROJECT_SOURCE_DIR}/include/piramidConfig.h")
 
 # Release type

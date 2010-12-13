@@ -25,6 +25,8 @@ GNU General Public License for more details.
 
 // General
 #include <getopt.h>
+#include <stdlib.h>
+#include <algorithm>
 
 // OpenBabel
 
@@ -39,4 +41,4 @@ Options parseCommandLine(int argc, char* argv[]);
 
 
 
-#endif __SILICOS_PIRAMID_PARSECOMMANDLINE_H__
+#endif

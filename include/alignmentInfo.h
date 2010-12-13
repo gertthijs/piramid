@@ -47,4 +47,5 @@ class AlignmentInfo
 
 
 
-#endif __SILICOS_PIRAMID_ALIGNMENTINFO_H__
+#endif
+

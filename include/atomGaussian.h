@@ -54,4 +54,4 @@ AtomGaussian atomIntersection(AtomGaussian&, AtomGaussian&);
 
 
 
-#endif __SILICOS_PIRAMID_ATOMGAUSSIAN_H__
+#endif

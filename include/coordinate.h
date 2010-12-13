@@ -50,4 +50,5 @@ std::ostream& operator<< (std::ostream&, const Coordinate&);
 
 
 
-#endif __SILICOS_PIRAMID_COORDINATE_H__
+#endif
+

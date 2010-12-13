@@ -77,4 +77,5 @@ class Options
 
 
 
-#endif __SILICOS_PIRAMID_OPTIONS_H__
+#endif
+

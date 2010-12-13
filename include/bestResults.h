@@ -70,4 +70,5 @@ class BestResults
 
 
 
-#endif __SILICOS_PIRAMID_BESTRESULTS_H__
+#endif
+

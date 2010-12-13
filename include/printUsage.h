@@ -37,4 +37,4 @@ void printUsage(void);
 
 
 
-#endif __SILICOS_PIRAMID_PRINTUSAGE_H__
+#endif

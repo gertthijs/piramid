@@ -41,4 +41,5 @@ void rotateMolecule(OpenBabel::OBMol&, SiMath::Vector&);
 
 
 
-#endif __SILICOS_PIRAMID_MOLECULEROTATION_H__
+#endif
+

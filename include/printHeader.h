@@ -38,4 +38,5 @@ void printHeader(void);
 
 
 
-#endif __SILICOS_PIRAMID_PRINTHEADER_H__
+#endif
+

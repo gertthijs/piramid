@@ -71,5 +71,5 @@ void updateSolutionInfo(SolutionInfo&, AlignmentInfo&, double, GaussianVolume&);
 
 
 
+#endif
 
-#endif __SILICOS_PIRAMID_SOLUTIONINFO_H__

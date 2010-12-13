@@ -72,4 +72,4 @@ class ShapeAlignment
 };
 
 
-#endif  __SILICOS_PIRAMID_SHAPEALIGNMENT_H__
+#endif
